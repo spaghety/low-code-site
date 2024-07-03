@@ -1,0 +1,1 @@
+This project is an attempt to create a basic low-level code web server with minimal to no dependencies.
